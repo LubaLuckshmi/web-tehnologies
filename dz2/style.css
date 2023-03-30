@@ -1,0 +1,26 @@
+h1{
+    color: rgb(136, 6, 6);
+    
+}
+h2{
+    color: orange;
+}
+a{
+    color: green;
+}
+a:hover{
+    color: beige;
+}
+html{
+    background-color: rgba(225, 238, 219, 0.65);
+}
+img{
+    width: 300px;
+    margin-left: 50px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+}
