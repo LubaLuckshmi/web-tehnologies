@@ -24,6 +24,6 @@ const tselsiy = +prompt("Введите температутру в градус
 alert(`Цельсий: ${tselsiy} Фаренгейт: ${convertTselsToFaring(tselsiy)}`);
 
 function convertTselsToFaring(a) {
-       return Math.floor(((9 / 5) * a + 32)* 100) / 100 ;
+       return Math.floor(((9 / 5) * a + 32)* 100) / 100;
     }
 
